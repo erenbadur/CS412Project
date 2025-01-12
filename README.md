@@ -1,4 +1,4 @@
-# CS412Project https://colab.research.google.com/drive/1nUtAmvUwe_EJ5sgdzfQmZh5G3sEgBzJV?usp=sharing
+# CS412Project
 
 Dataset Overview
 
@@ -50,3 +50,13 @@ For the regression task, while LightGBM consistently performed well, the relianc
 
 In conclusion, this project demonstrated significant progress in methodology and outcomes across three rounds. The classification task benefited from the transition to BERT fine-tuning and the application of PCA, while the regression task achieved steady improvements through iterative refinements. Future work should focus on addressing the noted limitations and exploring advanced techniques to further enhance both tasks.
 
+File Names:
+Round 3 task 1 and task 2: CS412_round3_task1andtask2.ipynb
+Round 3 task 2 trial (not used in final code) : Round3Task2Trial1.ipynb
+
+Round 2 task 1: 
+Round 2 task 2:
+
+Round 1 task 1:
+Round 1 task 2: 
+Round 1 task 2 trial (not used in final code) :
