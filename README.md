@@ -55,9 +55,8 @@ File Names:
 Round 3 task 1 and task 2: CS412_round3_task1andtask2.ipynb
 Round 3 task 2 trial (not used in final code) : Round3Task2Trial1.ipynb
 
-Round 2 task 1: 
-Round 2 task 2:
+Round 2 task 1: Round2Task1.ipynb
+Round 2 task 2: Round2Task2.ipynb
 
-Round 1 task 1:
-Round 1 task 2: 
-Round 1 task 2 trial (not used in final code) :
+Round 1 task 1: Round1Task1.ipynb
+Round 1 task 2: Round1Task2.ipynb
